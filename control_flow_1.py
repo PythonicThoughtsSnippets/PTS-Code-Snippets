@@ -1,5 +1,6 @@
 # python 3.7
 # 2019-08-15
+# blog plost: https://viviendomochileros.com/2019/08/15/python-thoughts-snippets-control-flow-1/
 
 def val_to_trades_option_ifs(val):
     
