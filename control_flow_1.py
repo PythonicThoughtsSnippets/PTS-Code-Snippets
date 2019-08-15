@@ -2,7 +2,7 @@
 # 2019-08-15
 # blog plost: https://viviendomochileros.com/2019/08/15/python-thoughts-snippets-control-flow-1/
 
-def val_to_trades_option_ifs(val):
+def translate_ifs(val):
     
     if isinstance(val, str):
         return val
@@ -21,7 +21,7 @@ def val_to_trades_option_ifs(val):
 
 
 # evaluates WITHOUT else statement
-def val_to_trades_option_1(val):
+def translate_1(val):
     
     d = {
         isinstance(val, str): val,
@@ -37,7 +37,7 @@ def val_to_trades_option_1(val):
 
 
 # evaluates WITH else statement
-def val_to_trades_option_2(val):
+def translate_2(val):
     
     d = {
         True: 'Happy Flowers!',
@@ -51,7 +51,7 @@ def val_to_trades_option_2(val):
 
 
 # Because functions in Pyhon are first class objects...
-def val_to_trades_option_3(val):
+def translate_3(val):
     
     d = {
         True: func1,
@@ -65,7 +65,7 @@ def val_to_trades_option_3(val):
 
 
 # # you can even use partials to prepare function calls
-def val_to_trades_option_4(val):
+def translate_4(val):
     
     from functools import partial
     
