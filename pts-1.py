@@ -1,6 +1,11 @@
+# Python Thougts Snippets #1
 # python 3.7
 # 2019-08-15
 # blog plost: https://viviendomochileros.com/2019/08/15/python-thoughts-snippets-control-flow-1/
+
+# THIS CODE IS NOT MEANT TO BE FUNCTIONAL OR EXECUTABLE,
+# IT IS A REPRESENTATION OF AN IDEA AND AN EXAMPLE
+# TO RAISE DISCUSSION
 
 def translate_ifs(val):
     
