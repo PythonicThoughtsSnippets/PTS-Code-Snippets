@@ -6,5 +6,5 @@ I created the **Pythonic Thoughts Snippets** series out of the need to share my 
 
 You can find in this repository the code snippets, and in my blog the discussion post about it.
 
-## Control Flow
-- [Dictionaries to replace if statements](https://viviendomochileros.com/2019/08/15/python-thoughts-snippets-control-flow-1/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/control_flow_1.py)
+- #0 [Parameter validation during class generation](https://viviendomochileros.com/2019/08/15/pts-0/)
+- #1 [Dictionaries to replace if statements](https://viviendomochileros.com/2019/08/15/pts-1/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/control_flow_1.py)
