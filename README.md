@@ -6,5 +6,5 @@ I created the **Pythonic Thoughts Snippets** series out of the need to share my 
 
 You can find in this repository the code snippets, and in my blog the [discussion posts series](https://viviendomochileros.com/2019/08/16/pythonic-thoughts-snippets-series/).
 
-- #0 [Parameter validation during class generation](https://viviendomochileros.com/pythonic-thoughts-snippets-0/)- [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-0.py)
+- #0 [Parameter validation during class generation](https://viviendomochileros.com/pythonic-thoughts-snippets-0/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-0.py)
 - #1 [Dictionaries to replace if statements](https://viviendomochileros.com/python-thoughts-snippets-1/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-1.py)
