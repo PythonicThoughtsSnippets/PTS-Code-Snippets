@@ -1,6 +1,7 @@
 # Python Thoughts Snippet #0
 # Python 3.7
 # 2019/07/28
+# blog post: https://viviendomochileros.com/2019/07/27/pts-0/
 # THIS CODE IS NOT MEANT TO BE FUNCTIONAL OR EXECUTABLE,
 # IT IS A REPRESENTATION OF AN IDEA AND AN EXAMPLE
 # TO RAISE DISCUSSION
