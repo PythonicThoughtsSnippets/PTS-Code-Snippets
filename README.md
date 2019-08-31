@@ -10,3 +10,4 @@ You can find in this repository the code snippets, and in my blog the [discussio
 - #1 [Dictionaries to replace if statements](https://viviendomochileros.com/pythonic-thoughts-snippets-1/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-1.py)
 - #2 [Unpacking in Conditional Expressions](https://viviendomochileros.com/pythonic-thoughts-snippets-2/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-2.py)
 - #3 [Logging library wide and to end-users](https://viviendomochileros.com/pythonic-thoughts-snippets-3/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-3.py)
+- #4 [Factory Method - Creational Pattern](https://viviendomochileros.com/pythonic-thoughts-snippets-4/) - [code](https://github.com/joaomcteixeira/Pythonic_Thoughts_Snippets/blob/master/pts-4.py)
