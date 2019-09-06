@@ -1,7 +1,7 @@
 # Python Thougts Snippets #1
 # python 3.7
 # 2019-08-15
-# blog plost: https://viviendomochileros.com/pythonic-thoughts-snippets-1/
+# plost: https://pythonicthoughtssnippets.github.io/#1-dictionaries-for-control-flow
 
 # THIS CODE IS NOT MEANT TO BE FUNCTIONAL OR EXECUTABLE,
 # IT IS A REPRESENTATION OF AN IDEA AND AN EXAMPLE

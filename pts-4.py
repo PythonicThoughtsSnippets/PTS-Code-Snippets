@@ -1,7 +1,7 @@
 # Python Thoughts Snippet #4 - Factory Method - Creational Pattern
 # Python 3.7
 # 2019/08/31
-# blog post: https://viviendomochileros.com/pythonic-thoughts-snippets-4/
+# post: https://pythonicthoughtssnippets.github.io/#4-factory-method-creational-pattern
 # THIS CODE IS NOT MEANT TO BE FUNCTIONAL OR EXECUTABLE,
 # IT IS A REPRESENTATION OF AN IDEA AND AN EXAMPLE TO RAISE DISCUSSION.
 

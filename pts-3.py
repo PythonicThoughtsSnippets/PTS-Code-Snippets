@@ -1,7 +1,7 @@
 # Python Thoughts Snippet #3 - Setting up a library wide logging
 # Python 3.7
 # 2019/08/26
-# blog post: https://viviendomochileros.com/pythonic-thoughts-snippets-3/
+# post: https://pythonicthoughtssnippets.github.io/#3-logging-library-wide-and-to-end-users
 # THIS CODE IS NOT MEANT TO BE FUNCTIONAL OR EXECUTABLE,
 # IT IS A REPRESENTATION OF AN IDEA AND AN EXAMPLE TO RAISE DISCUSSION.
 

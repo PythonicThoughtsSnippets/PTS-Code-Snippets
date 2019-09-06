@@ -1,7 +1,7 @@
 # Python Thoughts Snippet #0
 # Python 3.7
 # 2019/07/28
-# blog post: https://viviendomochileros.com/pythonic-thoughts-snippets-0/
+# post: https://pythonicthoughtssnippets.github.io/#0-parameter-validation-on-class-creation
 # THIS CODE IS NOT MEANT TO BE FUNCTIONAL OR EXECUTABLE,
 # IT IS A REPRESENTATION OF AN IDEA AND AN EXAMPLE
 # TO RAISE DISCUSSION
